@@ -1,0 +1,9 @@
+[03-Nov-2016 00:15:46 America/Denver] PHP Notice:  Undefined variable: cat_name in /home4/potenza3/public_html/meme/admin/category/ajax/ajax.php on line 37
+[03-Nov-2016 00:15:46 America/Denver] PHP Notice:  Undefined variable: cat_icon in /home4/potenza3/public_html/meme/admin/category/ajax/ajax.php on line 46
+[03-Nov-2016 00:15:46 America/Denver] PHP Notice:  Undefined variable: cat_status in /home4/potenza3/public_html/meme/admin/category/ajax/ajax.php on line 55
+[03-Nov-2016 00:16:02 America/Denver] PHP Notice:  Undefined variable: cat_name in /home4/potenza3/public_html/meme/admin/category/ajax/ajax.php on line 37
+[03-Nov-2016 00:16:02 America/Denver] PHP Notice:  Undefined variable: cat_icon in /home4/potenza3/public_html/meme/admin/category/ajax/ajax.php on line 46
+[03-Nov-2016 00:16:02 America/Denver] PHP Notice:  Undefined variable: cat_status in /home4/potenza3/public_html/meme/admin/category/ajax/ajax.php on line 55
+[03-Nov-2016 00:16:19 America/Denver] PHP Notice:  Undefined variable: cat_name in /home4/potenza3/public_html/meme/admin/category/ajax/ajax.php on line 37
+[03-Nov-2016 00:16:19 America/Denver] PHP Notice:  Undefined variable: cat_icon in /home4/potenza3/public_html/meme/admin/category/ajax/ajax.php on line 46
+[03-Nov-2016 00:16:19 America/Denver] PHP Notice:  Undefined variable: cat_status in /home4/potenza3/public_html/meme/admin/category/ajax/ajax.php on line 55

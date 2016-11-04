@@ -1,0 +1,18 @@
+[25-Oct-2016 04:35:09 America/Denver] PHP Notice:  Undefined index: icon in /home4/potenza3/public_html/meme/admin1/category/index.php on line 21
+[25-Oct-2016 04:35:09 America/Denver] PHP Notice:  Undefined index: time in /home4/potenza3/public_html/meme/admin1/category/index.php on line 22
+[25-Oct-2016 04:35:09 America/Denver] PHP Notice:  Undefined index: icon in /home4/potenza3/public_html/meme/admin1/category/index.php on line 21
+[25-Oct-2016 04:35:09 America/Denver] PHP Notice:  Undefined index: time in /home4/potenza3/public_html/meme/admin1/category/index.php on line 22
+[25-Oct-2016 04:35:09 America/Denver] PHP Notice:  Undefined index: icon in /home4/potenza3/public_html/meme/admin1/category/index.php on line 21
+[25-Oct-2016 04:35:09 America/Denver] PHP Notice:  Undefined index: time in /home4/potenza3/public_html/meme/admin1/category/index.php on line 22
+[25-Oct-2016 04:35:09 America/Denver] PHP Notice:  Undefined index: icon in /home4/potenza3/public_html/meme/admin1/category/index.php on line 21
+[25-Oct-2016 04:35:09 America/Denver] PHP Notice:  Undefined index: time in /home4/potenza3/public_html/meme/admin1/category/index.php on line 22
+[25-Oct-2016 04:35:09 America/Denver] PHP Notice:  Undefined index: icon in /home4/potenza3/public_html/meme/admin1/category/index.php on line 21
+[25-Oct-2016 04:35:09 America/Denver] PHP Notice:  Undefined index: time in /home4/potenza3/public_html/meme/admin1/category/index.php on line 22
+[25-Oct-2016 04:45:44 America/Denver] PHP Notice:  Undefined index: status in /home4/potenza3/public_html/meme/admin1/category/index.php on line 355
+[25-Oct-2016 04:51:50 America/Denver] PHP Notice:  Undefined index: status in /home4/potenza3/public_html/meme/admin1/category/index.php on line 255
+[25-Oct-2016 07:02:24 America/Denver] PHP Notice:  Undefined index: status in /home4/potenza3/public_html/meme/admin1/category/index.php on line 255
+[27-Oct-2016 23:39:06 America/Denver] PHP Notice:  Undefined index: username in /home4/potenza3/public_html/meme/admin/header.php on line 3
+[27-Oct-2016 23:39:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/potenza3/public_html/meme/admin/header.php on line 6
+[30-Oct-2016 10:35:41 America/Denver] PHP Notice:  Undefined index: status in /home4/potenza3/public_html/meme/admin/category/index.php on line 354
+[03-Nov-2016 02:23:25 America/Denver] PHP Notice:  Undefined index: status in /home4/potenza3/public_html/meme/admin/category/index.php on line 254
+[03-Nov-2016 23:10:10 America/Denver] PHP Notice:  Undefined index: status in /home4/potenza3/public_html/meme/admin/category/index.php on line 354

@@ -1,0 +1,13 @@
+[07-Oct-2016 07:16:42 America/Denver] PHP Notice:  Array to string conversion in /home4/potenza3/public_html/meme/admin/category/cat-add-edit.php on line 45
+[07-Oct-2016 07:17:31 America/Denver] PHP Notice:  Array to string conversion in /home4/potenza3/public_html/meme/admin/category/cat-add-edit.php on line 45
+[07-Oct-2016 07:17:42 America/Denver] PHP Notice:  Array to string conversion in /home4/potenza3/public_html/meme/admin/category/cat-add-edit.php on line 45
+[07-Oct-2016 07:52:14 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/potenza3/public_html/meme/admin/header.php:118) in /home4/potenza3/public_html/meme/admin/category/cat-add-edit.php on line 17
+[07-Oct-2016 22:16:31 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/potenza3/public_html/meme/admin/category/cat-add-edit.php on line 65
+[07-Oct-2016 22:20:28 America/Denver] PHP Notice:  Undefined index: status in /home4/potenza3/public_html/meme/admin/category/cat-add-edit.php on line 85
+[07-Oct-2016 22:20:28 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/potenza3/public_html/meme/admin/header.php:118) in /home4/potenza3/public_html/meme/admin/category/cat-add-edit.php on line 94
+[07-Oct-2016 23:20:41 America/Denver] PHP Notice:  Undefined index: status in /home4/potenza3/public_html/meme/admin/category/cat-add-edit.php on line 34
+[07-Oct-2016 23:20:41 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/potenza3/public_html/meme/admin/header.php:118) in /home4/potenza3/public_html/meme/admin/category/cat-add-edit.php on line 43
+[07-Oct-2016 23:21:51 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/potenza3/public_html/meme/admin/header.php:118) in /home4/potenza3/public_html/meme/admin/category/cat-add-edit.php on line 43
+[07-Oct-2016 23:23:58 America/Denver] PHP Notice:  Undefined index: status in /home4/potenza3/public_html/meme/admin/category/cat-add-edit.php on line 34
+[08-Oct-2016 01:58:26 America/Denver] PHP Notice:  Array to string conversion in /home4/potenza3/public_html/meme/admin/tags/tag-add-edit.php on line 109
+[08-Oct-2016 02:08:02 America/Denver] PHP Notice:  Undefined index: status in /home4/potenza3/public_html/meme/admin/tags/tag-add-edit.php on line 103

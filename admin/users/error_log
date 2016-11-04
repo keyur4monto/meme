@@ -1,0 +1,2 @@
+[01-Nov-2016 17:32:53 America/Denver] PHP Notice:  Undefined index: username in /home4/potenza3/public_html/meme/admin/header.php on line 3
+[01-Nov-2016 17:32:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/potenza3/public_html/meme/admin/header.php on line 6

@@ -1,0 +1,63 @@
+[19-Oct-2016 02:06:31 America/Denver] PHP Notice:  Undefined index: files in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 16
+[19-Oct-2016 07:16:49 America/Denver] PHP Warning:  move_uploaded_file(http://meme.potenzadev.ga/admin/assets/images/logo/blog_image_02 - Copy.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 33
+[19-Oct-2016 07:16:49 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOG55hb' to 'http://meme.potenzadev.ga/admin/assets/images/logo/blog_image_02 - Copy.jpg' in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 33
+[19-Oct-2016 07:18:22 America/Denver] PHP Warning:  move_uploaded_file(http://meme.potenzadev.ga/admin//meme/assets/images/logo/blog_image_03.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 33
+[19-Oct-2016 07:18:22 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVbSFJn' to 'http://meme.potenzadev.ga/admin//meme/assets/images/logo/blog_image_03.jpg' in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 33
+[19-Oct-2016 07:19:38 America/Denver] PHP Warning:  move_uploaded_file(http://meme.potenzadev.ga/admin/meme/assets/images/logo/blog_image_03.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 33
+[19-Oct-2016 07:19:38 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeydK7g' to 'http://meme.potenzadev.ga/admin/meme/assets/images/logo/blog_image_03.jpg' in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 33
+[25-Oct-2016 04:39:25 America/Denver] PHP Notice:  Undefined index: username in /home4/potenza3/public_html/meme/admin/header.php on line 6
+[25-Oct-2016 04:39:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/potenza3/public_html/meme/admin/header.php on line 11
+[25-Oct-2016 05:11:58 America/Denver] PHP Notice:  Undefined index: username in /home4/potenza3/public_html/meme/admin/header.php on line 6
+[25-Oct-2016 05:11:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/potenza3/public_html/meme/admin/header.php on line 11
+[25-Oct-2016 06:13:41 America/Denver] PHP Notice:  Undefined index: username in /home4/potenza3/public_html/meme/admin/header.php on line 6
+[25-Oct-2016 06:13:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/potenza3/public_html/meme/admin/header.php on line 11
+[26-Oct-2016 02:19:03 America/Denver] PHP Notice:  Undefined index: username in /home4/potenza3/public_html/meme/admin/header.php on line 6
+[26-Oct-2016 02:19:03 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/potenza3/public_html/meme/admin/header.php on line 11
+[26-Oct-2016 02:27:56 America/Denver] PHP Notice:  Undefined index: set_aboutme in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 4
+[26-Oct-2016 02:27:56 America/Denver] PHP Notice:  Undefined index: set_terms in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 5
+[26-Oct-2016 02:27:56 America/Denver] PHP Notice:  Undefined index: set_disclaimer in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 6
+[26-Oct-2016 02:27:56 America/Denver] PHP Notice:  Undefined index: set_privacy in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 7
+[26-Oct-2016 02:36:40 America/Denver] PHP Notice:  Undefined index: set_aboutme in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 4
+[26-Oct-2016 02:36:40 America/Denver] PHP Notice:  Undefined index: set_terms in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 5
+[26-Oct-2016 02:36:40 America/Denver] PHP Notice:  Undefined index: set_disclaimer in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 6
+[26-Oct-2016 02:36:40 America/Denver] PHP Notice:  Undefined index: set_privacy in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 7
+[26-Oct-2016 03:05:52 America/Denver] PHP Notice:  Undefined index: set_aboutme in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 4
+[26-Oct-2016 03:05:52 America/Denver] PHP Notice:  Undefined index: set_terms in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 5
+[26-Oct-2016 03:05:52 America/Denver] PHP Notice:  Undefined index: set_disclaimer in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 6
+[26-Oct-2016 03:05:52 America/Denver] PHP Notice:  Undefined index: set_privacy in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 7
+[26-Oct-2016 03:10:59 America/Denver] PHP Notice:  Undefined index: set_aboutme in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 4
+[26-Oct-2016 03:10:59 America/Denver] PHP Notice:  Undefined index: set_terms in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 5
+[26-Oct-2016 03:10:59 America/Denver] PHP Notice:  Undefined index: set_disclaimer in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 6
+[26-Oct-2016 03:10:59 America/Denver] PHP Notice:  Undefined index: set_privacy in /home4/potenza3/public_html/meme/admin/settings/pages_setting.php on line 7
+[26-Oct-2016 03:18:34 America/Denver] PHP Notice:  Undefined variable: siteurl in /home4/potenza3/public_html/meme/admin/settings/index.php on line 1
+[26-Oct-2016 03:18:49 America/Denver] PHP Notice:  Undefined variable: siteurl in /home4/potenza3/public_html/meme/admin/settings/index.php on line 1
+[26-Oct-2016 04:31:24 America/Denver] PHP Notice:  Undefined variable: siteurl in /home4/potenza3/public_html/meme/admin/settings/index.php on line 2
+[26-Oct-2016 04:31:28 America/Denver] PHP Notice:  Undefined variable: siteurl in /home4/potenza3/public_html/meme/admin/settings/index.php on line 2
+[26-Oct-2016 04:31:28 America/Denver] PHP Notice:  Undefined variable: siteurl in /home4/potenza3/public_html/meme/admin/settings/index.php on line 2
+[26-Oct-2016 04:31:28 America/Denver] PHP Notice:  Undefined variable: siteurl in /home4/potenza3/public_html/meme/admin/settings/index.php on line 2
+[27-Oct-2016 00:34:33 America/Denver] PHP Notice:  Undefined index: username in /home4/potenza3/public_html/meme/admin/header.php on line 6
+[27-Oct-2016 00:34:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/potenza3/public_html/meme/admin/header.php on line 11
+[28-Oct-2016 07:46:07 America/Denver] PHP Notice:  Undefined index: username in /home4/potenza3/public_html/meme/admin/header.php on line 3
+[28-Oct-2016 07:46:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/potenza3/public_html/meme/admin/header.php on line 6
+[28-Oct-2016 21:54:55 America/Denver] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[28-Oct-2016 21:54:55 America/Denver] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[30-Oct-2016 10:32:05 America/Denver] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[30-Oct-2016 10:32:05 America/Denver] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[30-Oct-2016 10:33:10 America/Denver] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[30-Oct-2016 10:33:10 America/Denver] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[30-Oct-2016 10:34:00 America/Denver] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[30-Oct-2016 10:34:00 America/Denver] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[30-Oct-2016 19:02:57 America/Denver] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home4/potenza3/public_html/meme/admin/settings/watermark_setting.php on line 36
+[30-Oct-2016 19:02:57 America/Denver] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/potenza3/public_html/meme/admin/settings/watermark_setting.php on line 36
+[30-Oct-2016 19:03:23 America/Denver] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[30-Oct-2016 19:03:23 America/Denver] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[31-Oct-2016 00:15:13 America/Denver] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[31-Oct-2016 00:15:13 America/Denver] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[01-Nov-2016 18:43:00 America/Denver] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home4/potenza3/public_html/meme/admin/settings/banner_setting.php on line 36
+[01-Nov-2016 18:43:00 America/Denver] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/potenza3/public_html/meme/admin/settings/banner_setting.php on line 36
+[01-Nov-2016 18:46:32 America/Denver] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[01-Nov-2016 18:46:32 America/Denver] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[01-Nov-2016 18:47:25 America/Denver] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[01-Nov-2016 18:47:25 America/Denver] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/potenza3/public_html/meme/admin/settings/header_setting.php on line 53
+[03-Nov-2016 23:06:09 America/Denver] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home4/potenza3/public_html/meme/admin/settings/footer_setting.php on line 11
+[03-Nov-2016 23:06:09 America/Denver] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/potenza3/public_html/meme/admin/settings/footer_setting.php on line 11
